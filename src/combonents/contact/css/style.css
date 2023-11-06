@@ -1,0 +1,33 @@
+
+
+.contact .line{
+    height: 4px;
+    width: 80px;
+    background-color:RGB(44, 62, 80);
+}
+.lines i{
+    color: RGB(44, 62, 80);
+}
+/* {
+    text-transform: uppercase!important;
+} */
+.contact-content {
+    font-size: 40px;
+    font-weight: 700;
+    color: RGB(44, 62, 80);
+}
+
+input {
+    outline: none !important;
+    /* border: 1px solid gray !important; */
+  border: none !important;
+    border-bottom: #dee2e6 2px solid !important;
+}
+.p1,.p2,.p3,.p4{
+    top: 100px;
+    color: #1ABC9C;
+}
+.cont button{
+    background-color:  #1ABC9C;
+}
+

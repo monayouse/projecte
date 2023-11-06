@@ -1,0 +1,16 @@
+
+
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+/* {
+    text-transform: uppercase!important;
+} */
+.about-content h2{
+    font-weight: 700;
+}
+.my-about{
+    background-color: #1ABC9C;
+}

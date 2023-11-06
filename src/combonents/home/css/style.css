@@ -1,0 +1,32 @@
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid white;
+
+    /*  */
+}
+.my-end{
+    background-color:#2C3E50 ;
+}
+.coppy{
+    
+    background-color: #1A252F;
+}
+.my-img img{
+    width: 250px;
+}
+.line{
+    height: 4px;
+    width: 80px;
+    background-color: white;
+}
+/* {
+    text-transform: uppercase!important;
+} */
+.home-content h2{
+    font-weight: 700;
+}
+.my-home{
+    background-color: #1ABC9C;
+}

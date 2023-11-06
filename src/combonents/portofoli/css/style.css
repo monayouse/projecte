@@ -1,0 +1,38 @@
+
+
+.portofolio .line{
+    height: 4px;
+    width: 80px;
+    background-color:RGB(44, 62, 80);
+}
+.lines i{
+    color: RGB(44, 62, 80);
+}
+/* {
+    text-transform: uppercase!important;
+} */
+.portofolio h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: RGB(44, 62, 80);
+}
+
+.layer{
+    /* background-color: transparent; */
+    opacity: 0;
+    transition: all 1s;
+}
+.port-inner:hover .layer {
+    background-color: #29B197;
+    opacity: 1;
+}
+.img-layers{
+    z-index: 9999;
+}
+.img-img{
+    width: 40%;
+}
+.port-inner{
+    cursor: pointer;
+}
+
